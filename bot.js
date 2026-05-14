@@ -1,3 +1,4 @@
+console.log("TOKEN =", process.env.TOKEN);
 import TelegramBot from "node-telegram-bot-api";
 
 const TOKEN = process.env.TOKEN;
